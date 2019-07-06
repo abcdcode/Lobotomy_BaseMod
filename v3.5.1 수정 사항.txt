@@ -1,3 +1,3 @@
-LocalizeTextDataLoader Å¬·¡½ºÀÇ LoadLocalizeTextData( ) ¼öÁ¤ - EGO ¸ðµå¿¡¼­ xmls Æú´õ ¾Æ·¡¿¡ ÇöÀç ÇÃ·¹ÀÌ ÁßÀÎ ¾ð¾îÀÇ Æú´õ°¡ ¾øÀ» °æ¿ì µð·ºÅä¸®¸¦ en ¶Ç´Â krÀ¸·Î º¯°æÇÏ¿© ±× ¾ð¾îÀÇ ÅØ½ºÆ®¸¦ ´ë½Å ºÒ·¯¿À°Ô ÇÔ
+LocalizeTextDataLoader í´ëž˜ìŠ¤ì˜ LoadLocalizeTextData( ) ìˆ˜ì • - EGO ëª¨ë“œì—ì„œ xmls í´ë” ì•„ëž˜ì— í˜„ìž¬ í”Œë ˆì´ ì¤‘ì¸ ì–¸ì–´ì˜ í´ë”ê°€ ì—†ì„ ê²½ìš° ë””ë ‰í† ë¦¬ë¥¼ en ë˜ëŠ” krìœ¼ë¡œ ë³€ê²½í•˜ì—¬ ê·¸ ì–¸ì–´ì˜ í…ìŠ¤íŠ¸ë¥¼ ëŒ€ì‹  ë¶ˆëŸ¬ì˜¤ê²Œ í•¨
 
-EquipmentTypeInfo Å¬·¡½ºÀÇ GetLocalizedText(string region, out string output)) ¼öÁ¤ - ÅØ½ºÆ® ID¿¡ ´ëÀÀÇÏ´Â ÅØ½ºÆ®¸¦ Ã£Áö ¸øÇÑ °æ¿ì UNKNOWN ´ë½Å ÅØ½ºÆ® ID¸¦ ¶ç¿ì°Ô ÇÔ
+EquipmentTypeInfo í´ëž˜ìŠ¤ì˜ GetLocalizedText(string region, out string output) ìˆ˜ì • - í…ìŠ¤íŠ¸ IDì— ëŒ€ì‘í•˜ëŠ” í…ìŠ¤íŠ¸ë¥¼ ì°¾ì§€ ëª»í•œ ê²½ìš° UNKNOWN ëŒ€ì‹  í…ìŠ¤íŠ¸ IDë¥¼ ë„ìš°ê²Œ í•¨
